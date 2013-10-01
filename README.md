@@ -1,4 +1,4 @@
 express-angular-coffeescript-skeleton
 =============================
 
-My skeleton project for for node.js project using express, AngularJS, and coffeescript.
+My skeleton project for node.js projects using express, AngularJS, and coffeescript.
